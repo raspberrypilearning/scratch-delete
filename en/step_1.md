@@ -1,59 +1,29 @@
-## Introduction
+You can delete a block by right-clicking on it and selecting **Delete Block** from the menu. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+![screenshot](images/delete-block.png){:width="300px"}
 
-### What you will make
+To delete a group of blocks, left-click on the top block to be deleted and drag it to the Blocks menu. All blocks underneath it will be deleted too.
+
+To restore blocks you have deleted in error, right-click and select **Undo** from the menu. 
+
+![screenshot](images/undo-delete-code.png){:width="300px"}
 
 --- no-print ---
-Add instructions for interacting with the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![screenshot](images/undo-delete-code.gif) 
+
 --- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+You can also delete a sprite by clicking on the sprite's Trash can in the Sprite pane. 
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+![screenshot](images/delete-sprite.png){:width="200px"}
 
-+ A computer or tablet capable of running Scratch 3
+To restore a sprite, including all of it's code blocks, go to the Edit menu and select **Restore Sprite**
 
-### Software
+![screenshot](images/restore-sprite.png){:width="400px"}
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+--- no-print ---
 
-### Downloads
+![screenshot](images/restore-sprite.gif) 
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+--- /no-print ---
