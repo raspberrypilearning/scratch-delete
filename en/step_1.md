@@ -18,7 +18,7 @@ You can also delete a sprite by clicking on the sprite's Trash can in the Sprite
 
 ![screenshot](images/delete-sprite.png){:width="200px"}
 
-To restore a sprite, including all of it's code blocks, go to the Edit menu and select **Restore Sprite**
+To restore a sprite, including all of its code blocks, go to the Edit menu and select **Restore Sprite**
 
 ![screenshot](images/restore-sprite.png){:width="400px"}
 
