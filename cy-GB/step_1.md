@@ -1,29 +1,29 @@
-You can delete a block by right-clicking on it and selecting **Delete Block** from the menu.
+Galli di ddileu bloc drwy dde-glicio arno a dewis **Dileu Bloc** o'r ddewislen.
 
-![A script of blocks with a pop up menu from the bottom block. The last option 'Delete Block' is highlighted.](images/delete-block.png){:width="300px"}
+![Sgript o flociau gyda dewislen naid o'r bloc gwaelod. Mae'r dewis diwethaf 'Dileu Bloc' wedi'i amlygu.](images/delete-block.png){:width="300px"}
 
-To delete a group of blocks, left-click on the top block to be deleted and drag it to the Blocks menu. All blocks underneath it will be deleted too.
+I ddileu grŵp o flociau, clicia gyda'r botwm chwith ar y bloc uchaf rwyt ti am ei ddileu a'i lusgo i'r ddewislen Blociau. Bydd yr holl flociau oddi tano yn cael eu dileu hefyd.
 
-To restore blocks you have deleted in error, right-click and select **Undo** from the menu.
+I adfer blociau rwyt ti wedi'u dileu trwy gamgymeriad, de-gliciaa dewis **Dadwneud** o'r ddewislen.
 
-![The Code area with right-click popup menu showing in an emtpy spot away from the code blocks. The top option 'Undo is highlighted.](images/undo-delete-code.png){:width="300px"}
+![Ardal y Cod gyda dewislen naid de-glicio yn ymddangos mewn gofod gwag i ffwrdd o'r blociau cod. Mae'r dewis ar y brif 'Dadwneud' wedi'i amlygu.](images/undo-delete-code.png){:width="300px"}
 
 --- no-print ---
 
-![An animated gif showing the user dragging the last 3 blocks in a script from the Code area to the Blocks menu. The blocks then disapear from the script. The user then right-clicks in an empty space in the Code area and selects the top option 'Undo' fromthe pop up menu. The blocks reappear.](images/undo-delete-code.gif)
+![Gif animeiddiedig yn dangos y defnyddiwr yn llusgo'r 3 bloc olaf mewn sgript o'r ardal Cod i'r ddewislen Blociau. Yna mae'r blociau'n diflannu o'r sgript. Wedyn mae'r defnyddiwr yn dde-glicio mewn man gwag yn ardal y Cod ac yn dewis yr dewis uchaf 'Dadwneud' o'r ddewislen naid. Mae'r blociau'n ailymddangos.](images/undo-delete-code.gif)
 
 --- /no-print ---
 
-You can also delete a sprite by clicking on the sprite's Trash can in the Sprite pane.
+Galli di hefyd ddileu corlun drwy glicio ar fin sbwriel y corlun yn y cwarel Corlun.
 
-![A sprite icon in the Sprite list. It is highlighted in blue to show it has been selected and there is a trash can icon in the top right.](images/delete-sprite.png){:width="200px"}
+![Eicon corlun yn y rhestr Corluniau. Mae wedi'i amlygu mewn glas i ddangos ei fod wedi'i ddewis ac mae eicon bin sbwriel yn y dde uchaf.](images/delete-sprite.png){:width="200px"}
 
-To restore a sprite, including all of its code blocks, go to the Edit menu and select **Restore Sprite**
+I adfer corlun, gan gynnwys ei holl flociau cod, cer i'r ddewislen Golygu a dewis **Adfer Corlun**
 
-![The edit menu at the top of the Scratch editor with tp option 'Restore Sprite' highlighted.](images/restore-sprite.png){:width="400px"}
+![Y ddewislen golygu ar frig golygydd Scratch gyda'r dewis 'Adfer Corlun'.](images/restore-sprite.png){:width="400px"}
 
 --- no-print ---
 
-![An animated gif showing the user deleting a sprite from the Sprite list by clicking on the trash can icon. The user then goes to the top menu and selects 'Edit' then 'Restore Sprite' and the sprite returns along with the code blocks associated with the sprite at the time of deleting.](images/restore-sprite.gif)
+![Gif animeiddiedig sy'n dangos y defnyddiwr yn dileu corlun o'r rhestr Corluniau drwy glicio ar yr eicon bin sbwriel. Yna mae'r defnyddiwr yn mynd i'r ddewislen uchaf ac yn dewis 'Golygu' ac wedyn 'Adfer Corlun' ac mae'r corlun yn dychwelyd ynghyd â'r blociau cod sy'n gysylltiedig â'r corlun ar adeg ei ddileu.](images/restore-sprite.gif)
 
 --- /no-print ---
