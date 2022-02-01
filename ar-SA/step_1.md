@@ -1,29 +1,29 @@
-You can delete a block by right-clicking on it and selecting **Delete Block** from the menu.
+يمكنك حذف كتلة بالنقر بزر الماوس الأيمن عليها واختيار **حذف اللبنة** من القائمة.
 
-![A script of blocks with a pop up menu from the bottom block. The last option 'Delete Block' is highlighted.](images/delete-block.png){:width="300px"}
+![نص من الكتل مع قائمة منبثقة من الكتلة السفلية. يتم تمييز الخيار الأخير "حذف اللبنة".](images/delete-block.png){:width="300px"}
 
-To delete a group of blocks, left-click on the top block to be deleted and drag it to the Blocks menu. All blocks underneath it will be deleted too.
+لحذف مجموعة من الكتل، انقر بزر الماوس الأيسر على الكتلة العلوية التي تريد حذفها واسحبه إلى قائمة الكتل. سيتم حذف جميع الكتل الموجودة تحتها أيضًا.
 
-To restore blocks you have deleted in error, right-click and select **Undo** from the menu.
+لاستعادة الكتل التي قمت بحذفها عن طريق الخطأ ، انقر بزر الماوس الأيمن وحدد **تراجع** من القائمة.
 
-![The Code area with right-click popup menu showing in an emtpy spot away from the code blocks. The top option 'Undo is highlighted.](images/undo-delete-code.png){:width="300px"}
+![تظهر منطقة الكود بقائمة منبثقة للنقر بزر الماوس الأيمن في مكان فارغ بعيدًا عن كتل التعليمات البرمجية. تم تمييز الخيار العلوي "تراجع".](images/undo-delete-code.png){:width="300px"}
 
 --- no-print ---
 
-![An animated gif showing the user dragging the last 3 blocks in a script from the Code area to the Blocks menu. The blocks then disapear from the script. The user then right-clicks in an empty space in the Code area and selects the top option 'Undo' fromthe pop up menu. The blocks reappear.](images/undo-delete-code.gif)
+![صورة gif متحركة تظهر المستخدم وهو يسحب آخر 3 كتل في نص برمجي من منطقة كتابة الاكواد إلى قائمة الكتل البرمجية. ثم تختفي الكتل من النص البرمجي. ثم ينقر المستخدم بزر الماوس الأيمن في مساحة فارغة في منطقة التعليمات البرمجية ويختار الخيار العلوي "تراجع" من القائمة المنبثقة. الكتل تظهر مرة أخرى.](images/undo-delete-code.gif)
 
 --- /no-print ---
 
-You can also delete a sprite by clicking on the sprite's Trash can in the Sprite pane.
+يمكنك أيضًا حذف كائن بالنقر فوق سلة مهملات الكائن في جزء الجانبي منه.
 
-![A sprite icon in the Sprite list. It is highlighted in blue to show it has been selected and there is a trash can icon in the top right.](images/delete-sprite.png){:width="200px"}
+![أيقونة الكائن في قائمة الكائنات. يتم تمييزه باللون الأزرق لإظهار أنه تم تحديده ويوجد رمز سلة المهملات في أعلى اليمين.](images/delete-sprite.png){:width="200px"}
 
-To restore a sprite, including all of its code blocks, go to the Edit menu and select **Restore Sprite**
+لاستعادة كائن ما ، بما في ذلك جميع كتل التعليمات البرمجية الخاصة به ، انتقل إلى قائمة "تعديل" وحدد **استعادة الكائن**
 
-![The edit menu at the top of the Scratch editor with tp option 'Restore Sprite' highlighted.](images/restore-sprite.png){:width="400px"}
+![قائمة التحرير في الجزء العلوي من محرر Scratch مع تمييز خيار "أستعادة الكائن".](images/restore-sprite.png){:width="400px"}
 
 --- no-print ---
 
-![An animated gif showing the user deleting a sprite from the Sprite list by clicking on the trash can icon. The user then goes to the top menu and selects 'Edit' then 'Restore Sprite' and the sprite returns along with the code blocks associated with the sprite at the time of deleting.](images/restore-sprite.gif)
+![صورة متحركة توضح قيام المستخدم بحذف كائن من قائمة الكائنات عن طريق النقر على أيقونة سلة المهملات. ينتقل المستخدم بعد ذلك إلى القائمة العلوية ويختار "تحرير" ثم "استعادة الكائن" ويعود الكائن مع كتل التعليمات البرمجية المرتبطة به في وقت الحذف.](images/restore-sprite.gif)
 
 --- /no-print ---
