@@ -14,7 +14,7 @@ Om blokken te herstellen die je per ongeluk hebt verwijderd, klik je met de rech
 
 --- /no-print ---
 
-Je kunt ook een sprite ook verwijderen door op de prullenbak van de sprite in het Sprite-paneel te klikken.
+Je kunt een sprite ook verwijderen door op de prullenbak van de sprite in het Sprite-paneel te klikken.
 
 ![Een sprite-pictogram in de sprite-lijst. Het is blauw gemarkeerd om aan te geven dat het is geselecteerd en er is een prullenbak pictogram in de rechterbovenhoek.](images/delete-sprite.png){:width="200px"}
 
