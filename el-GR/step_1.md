@@ -1,29 +1,29 @@
-You can delete a block by right-clicking on it and selecting **Delete Block** from the menu.
+Μπορείς να διαγράψεις ένα μπλοκ κάνοντας δεξί κλικ πάνω του και επιλέγοντας **Διαγραφή μπλοκ** από το μενού.
 
-![A script of blocks with a pop up menu from the bottom block. The last option 'Delete Block' is highlighted.](images/delete-block.png){:width="300px"}
+![Ένα σενάριο με μπλοκ με ένα αναδυόμενο μενού από το κάτω μπλοκ. Η τελευταία επιλογή «Διαγραφή Μπλοκ» επισημαίνεται.](images/delete-block.png){:width="300px"}
 
-To delete a group of blocks, left-click on the top block to be deleted and drag it to the Blocks menu. All blocks underneath it will be deleted too.
+Για να διαγράψεις μια ομάδα από μπλοκ, κάνε αριστερό κλικ στο επάνω μπλοκ που θέλεις να διαγράψεις και σύρε το στο μενού Μπλοκ. Όλα τα μπλοκ κάτω από αυτό θα διαγραφούν επίσης.
 
-To restore blocks you have deleted in error, right-click and select **Undo** from the menu.
+Για να επαναφέρεις μπλοκ που έχεις διαγράψει κατά λάθος, κάνε δεξί κλικ και επίλεξε **Αναίρεση** από το μενού.
 
-![The Code area with right-click popup menu showing in an emtpy spot away from the code blocks. The top option 'Undo is highlighted.](images/undo-delete-code.png){:width="300px"}
+![Η περιοχή προγραμματισμού με αναδυόμενο μενού που εμφανίζεται με δεξί κλικ σε ένα σημείο μακριά από τα μπλοκ κώδικα. Η πάνω επιλογή "Αναίρεση" είναι επισημασμένη.](images/undo-delete-code.png){:width="300px"}
 
 --- no-print ---
 
-![An animated gif showing the user dragging the last 3 blocks in a script from the Code area to the Blocks menu. The blocks then disapear from the script. The user then right-clicks in an empty space in the Code area and selects the top option 'Undo' fromthe pop up menu. The blocks reappear.](images/undo-delete-code.gif)
+![Ένα κινούμενο gif που δείχνει τον χρήστη να σέρνει τα τελευταία 3 μπλοκ από ένα script από την περιοχή Προγραμματισμού στο μενού των Μπλοκ. Στη συνέχεια, τα μπλοκ εξαφανίζονται από το script. Στη συνέχεια, ο χρήστης κάνει δεξί κλικ σε ένα κενό σημείο στην περιοχή Προγραμματισμού και επιλέγει την επάνω επιλογή "Αναίρεση" από το αναδυόμενο μενού. Τα μπλοκ επανεμφανίζονται.](images/undo-delete-code.gif)
 
 --- /no-print ---
 
-You can also delete a sprite by clicking on the sprite's Trash can in the Sprite pane.
+Μπορείς επίσης να διαγράψεις ένα αντικείμενο κάνοντας κλικ στον κάδο απορριμμάτων του αντικειμένου στο παράθυρο των Αντικειμένων.
 
-![A sprite icon in the Sprite list. It is highlighted in blue to show it has been selected and there is a trash can icon in the top right.](images/delete-sprite.png){:width="200px"}
+![Ένα εικονίδιο αντικειμένου στη λίστα Αντικειμένων. Επισημαίνεται με μπλε χρώμα για να δείξει ότι έχει επιλεγεί και υπάρχει ένα εικονίδιο κάδου απορριμμάτων επάνω δεξιά.](images/delete-sprite.png){:width="200px"}
 
-To restore a sprite, including all of its code blocks, go to the Edit menu and select **Restore Sprite**
+Για να επαναφέρεις ένα αντικείμενο, συμπεριλαμβανομένων όλων των μπλοκ του κώδικα του, πήγαινε στο μενού Επεξεργασία και επίλεγε **Επαναφορά Αντικειμένου**
 
-![The edit menu at the top of the Scratch editor with tp option 'Restore Sprite' highlighted.](images/restore-sprite.png){:width="400px"}
+![Το μενού επεξεργασίας στο επάνω μέρος του προγράμματος επεξεργασίας Scratch με επισημασμένη την επιλογή "Επαναφορά Αντικειμένου".](images/restore-sprite.png){:width="400px"}
 
 --- no-print ---
 
-![An animated gif showing the user deleting a sprite from the Sprite list by clicking on the trash can icon. The user then goes to the top menu and selects 'Edit' then 'Restore Sprite' and the sprite returns along with the code blocks associated with the sprite at the time of deleting.](images/restore-sprite.gif)
+![Ένα κινούμενο gif που δείχνει τον χρήστη να διαγράφει ένα αντικείμενο από τη λίστα Αντικειμένων κάνοντας κλικ στο εικονίδιο του κάδου απορριμμάτων. Στη συνέχεια, ο χρήστης πηγαίνει στο επάνω μενού και επιλέγει «Επεξεργασία» και μετά «Επαναφορά Αντικειμένου» και το αντικείμενο επιστρέφει μαζί με τα μπλοκ κώδικα που σχετίζονται με το αντικείμενο τη στιγμή της διαγραφής.](images/restore-sprite.gif)
 
 --- /no-print ---
