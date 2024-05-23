@@ -1,29 +1,29 @@
-You can delete a block by right-clicking on it and selecting **Delete Block** from the menu.
+Você pode excluir um bloco clicando com o botão direito nele e selecionando **Apagar Bloco** no menu.
 
-![A script of blocks with a pop up menu from the bottom block. The last option 'Delete Block' is highlighted.](images/delete-block.png){:width="300px"}
+![Um script de blocos com um menu pop-up aberto a partir do bloco inferior. A última opção ‘Apagar Bloco’ está destacada.](images/delete-block.png){:width="300px"}
 
-To delete a group of blocks, left-click on the top block to be deleted and drag it to the Blocks menu. All blocks underneath it will be deleted too.
+Para excluir um grupo de blocos, clique com o botão esquerdo no bloco superior a ser excluído e arraste-o para o menu Blocos. Todos os blocos abaixo dele também serão excluídos.
 
-To restore blocks you have deleted in error, right-click and select **Undo** from the menu.
+Para restaurar blocos que você excluiu por engano, clique com o botão direito e selecione **Desfazer** no menu.
 
-![The Code area with right-click popup menu showing in an emtpy spot away from the code blocks. The top option 'Undo is highlighted.](images/undo-delete-code.png){:width="300px"}
+![A área de código com o menu pop-up do botão direito aparecendo em um local vazio longe dos blocos de código. A primeira opção 'Desfazer' está destacada.](images/undo-delete-code.png){:width="300px"}
 
 --- no-print ---
 
-![An animated gif showing the user dragging the last 3 blocks in a script from the Code area to the Blocks menu. The blocks then disapear from the script. The user then right-clicks in an empty space in the Code area and selects the top option 'Undo' fromthe pop up menu. The blocks reappear.](images/undo-delete-code.gif)
+![Um gif animado mostrando o usuário arrastando os últimos 3 blocos de um script da área código para o menu Blocos. Os blocos então desaparecem do script. O usuário então clica com o botão direito em um espaço vazio na área código e seleciona a opção superior 'Desfazer' no menu pop-up. Os blocos reaparecem.](images/undo-delete-code.gif)
 
 --- /no-print ---
 
-You can also delete a sprite by clicking on the sprite's Trash can in the Sprite pane.
+Você também pode excluir um ator clicando na lixeira do ator, dentro do painel Ator.
 
-![A sprite icon in the Sprite list. It is highlighted in blue to show it has been selected and there is a trash can icon in the top right.](images/delete-sprite.png){:width="200px"}
+![Um ícone de ator na lista de Atores. Ele está destacado para mostrar que foi selecionado e há um ícone de lixeira no canto superior direito.](images/delete-sprite.png){:width="200px"}
 
-To restore a sprite, including all of its code blocks, go to the Edit menu and select **Restore Sprite**
+Para restaurar um ator, incluindo todos os seus blocos de código, vá ao menu Editar e selecione **Restaurar Ator**
 
-![The edit menu at the top of the Scratch editor with tp option 'Restore Sprite' highlighted.](images/restore-sprite.png){:width="400px"}
+![O menu de Editar na parte superior do editor Scratch com a opção 'Restaurar Sprite' destacada.](images/restore-sprite.png){:width="400px"}
 
 --- no-print ---
 
-![An animated gif showing the user deleting a sprite from the Sprite list by clicking on the trash can icon. The user then goes to the top menu and selects 'Edit' then 'Restore Sprite' and the sprite returns along with the code blocks associated with the sprite at the time of deleting.](images/restore-sprite.gif)
+![Um gif animado mostrando o usuário excluindo um ator da lista de Sprites clicando no ícone da lixeira. O usuário então vai para o menu superior e seleciona 'Editar' e depois 'Restaurar Sprite' e o sprite retorna junto com os blocos de código associados ao ator no momento da exclusão.](images/restore-sprite.gif)
 
 --- /no-print ---
