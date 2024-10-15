@@ -1,29 +1,29 @@
-You can delete a block by right-clicking on it and selecting **Delete Block** from the menu.
+ブロックを削除するには、右クリックをして メニューにある**ブロックを削除**を選択してください。
 
-![A script of blocks with a pop up menu from the bottom block. The last option 'Delete Block' is highlighted.](images/delete-block.png){:width="300px"}
+![一番下のブロックからポップアップ メニューが表示されるブロックのスクリプト。 ハイライトされた最後のオプション 「ブロックを削除」。](images/delete-block.png){:width="300px"}
 
-To delete a group of blocks, left-click on the top block to be deleted and drag it to the Blocks menu. All blocks underneath it will be deleted too.
+グループのブロックを削除するには、削除したいグループの一番上のブロックを左クリックしてブロックメニューにドラッグします。 それより下のブロックは全て削除されます。
 
-To restore blocks you have deleted in error, right-click and select **Undo** from the menu.
+削除したブロックを復元するには、右クリックをして、メニューから **取り消し**を選択してください。
 
-![The Code area with right-click popup menu showing in an emtpy spot away from the code blocks. The top option 'Undo is highlighted.](images/undo-delete-code.png){:width="300px"}
+![コード ブロックから離れた空きスペースに右クリックするとポップアップ メニューが表示されるコード領域。 ハイライトされた一番上のオプション「取り消し」。](images/undo-delete-code.png){:width="300px"}
 
 --- no-print ---
 
-![An animated gif showing the user dragging the last 3 blocks in a script from the Code area to the Blocks menu. The blocks then disapear from the script. The user then right-clicks in an empty space in the Code area and selects the top option 'Undo' fromthe pop up menu. The blocks reappear.](images/undo-delete-code.gif)
+![ユーザーがスクリプト内の最後の 3 つのブロックをコード領域からブロック メニューにドラッグする様子を示すアニメーション GIF。 このブロックはスクリプトから消去されます。 ユーザーは、コードエリアの何もないスペースを右クリックをし、ポップアップメニューの一番上のオプションである 「取り消し」を選択します。 ブロックがまた現れます。](images/undo-delete-code.gif)
 
 --- /no-print ---
 
-You can also delete a sprite by clicking on the sprite's Trash can in the Sprite pane.
+スプライトペインにあるゴミ箱をクリックして、スプライトを削除することもできます。
 
-![A sprite icon in the Sprite list. It is highlighted in blue to show it has been selected and there is a trash can icon in the top right.](images/delete-sprite.png){:width="200px"}
+![スプライトリストのスプライトのアイコン。 選択されたものは、青でハイライトされ、右上にゴミ箱のアイコンが表示されます。](images/delete-sprite.png){:width="200px"}
 
-To restore a sprite, including all of its code blocks, go to the Edit menu and select **Restore Sprite**
+スプライトとコードのブロックを復元するには、編集メニューの、 **削除の取り消し**を選択してください。
 
-![The edit menu at the top of the Scratch editor with tp option 'Restore Sprite' highlighted.](images/restore-sprite.png){:width="400px"}
+![Scratchエディターの上部にある編集メニューのオプションの「削除の取り消し」がハイライトされています。](images/restore-sprite.png){:width="400px"}
 
 --- no-print ---
 
-![An animated gif showing the user deleting a sprite from the Sprite list by clicking on the trash can icon. The user then goes to the top menu and selects 'Edit' then 'Restore Sprite' and the sprite returns along with the code blocks associated with the sprite at the time of deleting.](images/restore-sprite.gif)
+![ユーザーがゴミ箱アイコンをクリックしてスプライト リストからスプライトを削除する様子を示すアニメーション GIF。 ユーザーはトップメニューに行き「編集」を選択して「削除の取り消し」を選択すると、削除したスプライトとコードブロックが戻ってきます。](images/restore-sprite.gif)
 
 --- /no-print ---
